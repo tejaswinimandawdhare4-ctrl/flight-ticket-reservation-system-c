@@ -1,0 +1,14 @@
+Menu
+1-Add Booking
+2-Delete Booking
+3-Display
+4-Seareh Booking
+5-Save to Excel
+6-Exit
+
+Enter Choice :1
+
+Enter Ticket ID: 1234
+Enter Name: Tejaswini
+Enter Source: Mumbai
+Enter Destination: Goa
